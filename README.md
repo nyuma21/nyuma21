@@ -1,6 +1,6 @@
 <div align="center">
 
-![Heewon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyuma21&show_icons=true&theme=radical)
+![Heewon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyuma21&show_icons=true&theme=blue_navy)
 
 </div>
 
