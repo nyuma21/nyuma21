@@ -1,7 +1,7 @@
 ## Hi there 👋
-![nyuma21's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luvcong&count_private=true)
+![nyuma21's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyuma21&count_private=true)
 
-![nyuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![nyuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyuma21&show_icons=true&theme=blue_navy)
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=blue)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
